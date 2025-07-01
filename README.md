@@ -22,4 +22,7 @@ To explore transaction, product, and customer data in order to understand sales 
 ### Key Insights
 - **Main customer base**: shoppers from Budget - Older Families, Mainstream - Young Singles/Couples and Mainstream - Retirees are the top 3 contrbutors to chip sales.  
 - **Impulse Buying Indicator**:  Mainstream young and midage singles/couples showed a slightly higher average unit price, suggesting a tendency toward impulse purchase and a preference for premium or smaller pack options.
-- Brand Preference for Mainstream young singles/couples are 23% more likely to purchase Tyrrells chips. 
+- Brand Preference for Mainstream young singles/couples are 23% more likely to purchase Tyrrells chips.
+
+Detail code are shown in data_analytics.ipynb file.
+
